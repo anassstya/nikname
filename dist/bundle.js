@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=new class{validateUsername(e){return/^[a-z]+[-_]*\d{0,3}[-_]*[a-z]+$/.test(e)}};console.log(e.validateUsername("gd45-fdf"))})();
